@@ -20,13 +20,14 @@ https://prezi.com/xnanrq-bnxpn/sinatra
 -- Basic CRUD using sinatra, active record and SQLite.
 
 ### Usefull links
+
 - Sinatra -- http://www.sinatrarb.com/
 - Ruby Gems -- https://rubygems.org/
 - Bundler Gem -- http://bundler.io/gemfile.html
 - SQLite -- https://www.sqlite.org/
 - Active Record -- http://guides.rubyonrails.org/active_record_basics.html
 - Rails for Zombies -- http://railsforzombies.org/
-- 
+
 ### Esteban López Acuña 2015
 
 
