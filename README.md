@@ -3,21 +3,21 @@
 
 Basic info about Sinatra rb.
 
- ### Presentation
-https://prezi.com/xnanrq-bnxpn/edit/#114_24309637
+### Presentation
+https://prezi.com/xnanrq-bnxpn/sinatra
 
- ### Files and folders
+### Files and folders
 - Start.rb 
-	Starting file for sinatra.
+-- Starting file for sinatra.
 
 - Config
-	Some examples of configurations.
+-- Some examples of configurations.
 
 - Params
-	Example of parameters on sinatra
+-- Example of parameters on sinatra
 
 - CRUD
-	Basic CRUD using sinatra, active record and SQLite.
+-- Basic CRUD using sinatra, active record and SQLite.
 
 ### Esteban López Acuña 2015
 
