@@ -21,6 +21,7 @@ https://prezi.com/xnanrq-bnxpn/sinatra
 
 ### Usefull links
 
+- Basic ruby -- http://tryruby.org
 - Sinatra -- http://www.sinatrarb.com/
 - Ruby Gems -- https://rubygems.org/
 - Bundler Gem -- http://bundler.io/gemfile.html
