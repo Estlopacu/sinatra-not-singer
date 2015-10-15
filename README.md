@@ -29,6 +29,7 @@ https://prezi.com/xnanrq-bnxpn/sinatra
 - Active Record -- http://guides.rubyonrails.org/active_record_basics.html
 - Rails for Zombies -- http://railsforzombies.org/
 - Sinatra + MySQL -- https://www.percona.com/files/presentations/percona-live/london-2011/PLUK2011-coding-a-mysql-access-layer-using-ruby-amp-sinatra.pdf
+- Rackup - https://github.com/rack/rack/wiki/(tutorial)-rackup-howto
 
 ### Esteban López Acuña 2015
 
