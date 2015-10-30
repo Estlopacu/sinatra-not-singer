@@ -26,7 +26,7 @@ get '/edit/:id' do
 	erb :'edit.html'
 end
 
-post '/edit/:id' do
+put '/edit/:id' do
 	@hat = Hat.find(params['id'])
 	@hat.brand = params['brand']
 	@hat.style = params['style']

@@ -11,6 +11,7 @@
 			<div class="container">
 				<div class="col-xs-8 col-xs-offset-2 jumbotron">
 					<form method="post" action="/edit/<%= @hat.id%>">
+						<input type="hidden" name="_method" value="put">
 						<div class="form-group">
 							<label for="brand">Brand</label>
 							<input type="text" class="form-control" name="brand" value="<%= @hat.brand %>">
