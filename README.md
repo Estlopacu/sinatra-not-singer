@@ -4,7 +4,7 @@
 Basic info about Sinatra rb.
 
 ### Presentation
-https://prezi.com/xnanrq-bnxpn/sinatra
+https://prezi.com/s_mnlgkwwq9d/sinatra-brainstation/
 
 ### Files and folders
 - Start.rb 
