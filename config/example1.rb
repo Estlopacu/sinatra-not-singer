@@ -7,3 +7,7 @@ disable :dump_errors
 get '/work' do
   "Work: " + settings.work
 end
+
+not_found do
+  "Meti la pata" 
+end
