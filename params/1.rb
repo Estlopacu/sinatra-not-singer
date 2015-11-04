@@ -9,7 +9,7 @@ get '/block/:name' do |n|
 end
 
 get '/query' do
-	name = params['name']
-	lastname = params['lastname']
+	name = params[:name]
+	lastname = params[:lastname]
 	"Hola! #{name} #{lastname}!<br/> Access by query parameters"
 end
