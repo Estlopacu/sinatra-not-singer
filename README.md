@@ -13,8 +13,8 @@ https://prezi.com/s_mnlgkwwq9d/sinatra-brainstation/
 - Config
 -- Some examples of configurations.
 
-- Params
--- Example of parameters on sinatra
+- Routes
+-- Examples of sinatra
 
 - CRUD
 -- Basic CRUD using sinatra, active record and SQLite.
