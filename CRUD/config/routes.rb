@@ -1,3 +1,7 @@
+after do
+	ActiveRecord::Base.connection.close
+end
+
 get '/' do
 	@listHats = Hat.all 
 	erb :'index.html'
@@ -37,5 +41,9 @@ end
 get '/delete/:id' do
 	@hat = Hat.find(params['id'])
 	@hat.destroy
+	redirect '/'
+end
+
+not_found do
 	redirect '/'
 end
